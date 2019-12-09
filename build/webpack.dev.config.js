@@ -49,7 +49,9 @@ module.exports = {
 		mselect: path.resolve("dev", "projects", "multiselect", "main.js"),
 		grouping: path.resolve("dev", "projects", "grouping", "main.js"),
 		checklist: path.resolve("dev", "projects", "checklist", "main.js"),
-		picker: path.resolve("dev", "projects", "picker", "main.js")
+		picker: path.resolve("dev", "projects", "picker", "main.js"),
+		grid: path.resolve("dev", "projects", "grid", "main.js"),
+		validation: path.resolve("dev", "projects", "validation", "main.js"),
 	},
 
 	output: {
