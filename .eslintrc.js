@@ -15,7 +15,7 @@ module.exports = {
 	extends: ["eslint:recommended", "plugin:vue/essential"],
 	plugins: ["prettier"],
 	rules: {
-		indent: [1, "tab", { SwitchCase: 1 }],
+		//indent: [1, "tab", { SwitchCase: 1 }],
 		quotes: [1, "double", { allowTemplateLiterals: true }],
 		semi: [2, "always"],
 		"no-var": [2],
